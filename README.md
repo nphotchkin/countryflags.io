@@ -5,7 +5,5 @@
  
 ##### The most beautiful country flags archived from countryflags.io before it went down.
 
-💀 R.I.P. Country flags website, gone but never forgotten! 
-
-I don't have them in additional resolutions unfortunately! 
+All flags are [64 x 64] I don't have them in additional resolutions unfortunately! 
 If you do please open a pull request so that we can archive this important part of internet history & keep the flags flying!
